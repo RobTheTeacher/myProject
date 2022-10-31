@@ -30,3 +30,8 @@ main {
   padding: 48px;
   width: 50%;
 }
+
+.highlight {
+  color: #8FB339;
+  font-size: 2em;
+}
