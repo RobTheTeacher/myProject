@@ -17,10 +17,16 @@ body {
 header, 
 footer {
   background-color: #4B5842;
-  color: #ffffff;
+  color: #DADDD8;
   padding: 48px;
 }
 
 main {
   flex-grow: 1;
+}
+
+.main-content {
+  background-color: #B7CE63;
+  padding: 48px;
+  width: 50%;
 }
